@@ -1,0 +1,16 @@
+{
+  "name": "SISProxyNode",
+  "version": "0.0.0",
+  "description": "SIS Proxy server running on node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AniSho",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.13.4",
+    "mongoose": "~4.4.6",
+    "express-mongoose": "~0.1.0"
+  }
+}
